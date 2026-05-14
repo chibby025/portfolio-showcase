@@ -1,4 +1,4 @@
-# Chibuzor's Software Engineering Portfolio
+# Chibby's Software Engineering Portfolio
 
 > **From Fired to Founder in 6 Months** | Full-Stack Engineer | Building Africa's First Web3-Enabled Social Streaming Platform
 
