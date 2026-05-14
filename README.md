@@ -1,6 +1,6 @@
 # Chibby's Software Engineering Portfolio
 
-> **From Fired to Founder in 6 Months** | Full-Stack Engineer | Building Africa's First Web3-Enabled Social Streaming Platform
+>| Full-Stack Engineer | Building Africa's First Web3-Enabled Social Streaming Platform
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chibuzor-chinweokwu-5338bb31b/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:chinweokwuchibuzor@gmail.com)
