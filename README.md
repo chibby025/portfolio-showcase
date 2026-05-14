@@ -10,14 +10,11 @@
 
 ## 🎯 About Me
 
-**Self-taught full-stack engineer** who went from being fired at Deel (despite 3.8x team efficiency) to building a complete social streaming platform in 6 months.
+**Self-taught full-stack engineer** to building a complete social streaming platform in 6 months.
 
 **Background:**
 
-- 💪 Efficiency: 3.8x the combined output of my entire team
-- 📚 2024: Wrote 44 certification exams, reached final stage in 9 job applications
-- 💻 August 2025: Started learning to code (Go, React, PostgreSQL)
-- 🚀 March 2026: Launched WeWatch - full production platform
+
 
 **What I Built While Learning:**
 - Real-time 3D cinema with spatial audio
